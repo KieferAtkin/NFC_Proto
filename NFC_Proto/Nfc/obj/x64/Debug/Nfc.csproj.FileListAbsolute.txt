@@ -1,0 +1,58 @@
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\Nfc.csprojAssemblyReference.cache
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.g.i.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.g.i.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.g.i.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.g.i.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.g.i.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\Styles\Styles.xaml
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\Styles\Styles.xbf
+C:\Users\KAtkin\Desktop\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\Nfc.csproj.AssemblyReference.cache
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.g.i.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.g.i.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.g.i.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.g.i.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.g.i.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\Styles\Styles.xaml
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\App.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\CardReader.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\MainPage.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ManageCard.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\SetCardData.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\ReceiptView.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\Styles\Styles.xbf
+C:\Users\KAtkin\OneDrive - irisguard.com\Documents\Visual Studio Files - Archive\Irisguard Visual Studio Files\Near_field_communication__NFC__sample\Nfc\obj\x64\Debug\XamlSaveStateFile.xml
